@@ -9,3 +9,7 @@ MS-SQL-Server - SoftUni  Course
 5. Jons and Subques
 6. Functions and Stored Procedures
 7. Triggers and Transactions
+
+#### Databases (DBs)
+
+#### Exercises (Exams)
